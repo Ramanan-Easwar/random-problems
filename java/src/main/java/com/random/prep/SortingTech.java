@@ -43,7 +43,5 @@ public class SortingTech {
             System.out.println(map.getKey()+map.getValue());
         }
 
-
-
     }
 }
